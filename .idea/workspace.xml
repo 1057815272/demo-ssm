@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f958c57-c49b-4874-930c-c4aae8c4edbc" name="Default Changelist" comment="" />
+    <list default="true" id="7f958c57-c49b-4874-930c-c4aae8c4edbc" name="Default Changelist" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jbit/test/T.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jbit/test/T.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +28,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1bsU4s8wSUiHSpCLXeOiP4WhfKF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -88,45 +92,81 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589420108421</updated>
-      <workItem from="1589420117126" duration="3258000" />
+      <workItem from="1589420117126" duration="4144000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1589423573098</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589423573098</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="76" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589422113255">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="223" y="76" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1589422113255" />
+    <state x="0" y="22" key="CommitChangelistDialog2" timestamp="1589424386922">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="0" y="22" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1589424386922" />
     <state x="549" y="162" key="FileChooserDialogImpl" timestamp="1589423454980">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="549" y="162" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1589423454980" />
-    <state width="1493" height="214" key="GridCell.Tab.0.bottom" timestamp="1589422133047">
+    <state x="637" y="313" width="273" height="207" key="Github.ShareDialog" timestamp="1589424172218">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1589422133047" />
-    <state width="1493" height="214" key="GridCell.Tab.0.center" timestamp="1589422133046">
+    <state x="637" y="313" width="273" height="207" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1589424172218" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1589424301333">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1589422133046" />
-    <state width="1493" height="214" key="GridCell.Tab.0.left" timestamp="1589422133045">
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1589424301333" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1589424301332">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1589422133045" />
-    <state width="1493" height="214" key="GridCell.Tab.0.right" timestamp="1589422133047">
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1589424301332" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1589424301332">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1589422133047" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1589424301332" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1589424301333">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1589424301332" />
     <state x="299" y="76" key="Maven.ArtifactSearchDialog" timestamp="1589421467082">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="299" y="76" key="Maven.ArtifactSearchDialog/0.0.1536.834@0.0.1536.834" timestamp="1589421467082" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1589424163588">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1589424163588" />
+    <state x="361" y="154" key="Vcs.Push.Dialog.v2" timestamp="1589424312451">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="154" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1589424312451" />
     <state x="461" y="246" key="com.intellij.ide.util.TipDialog" timestamp="1589420117132">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="461" y="246" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1589420117132" />
+    <state x="564" y="336" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589424390952">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="564" y="336" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1589424390952" />
+    <state x="560" y="220" key="git4idea.merge.GitPullDialog" timestamp="1589424282009">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="560" y="220" key="git4idea.merge.GitPullDialog/0.0.1536.834@0.0.1536.834" timestamp="1589424282009" />
   </component>
 </project>
